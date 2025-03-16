@@ -20,6 +20,8 @@ image
 Methodology
 Data Acquisition - MSTAR
 The Moving and Stationary Target Acquisition and Identification (MSTAR) Program is a collaborative initiative between the Defense Advanced Research Projects Organization (DARPA) and the Air Force Research Laboratory (AFRL) to develop and test the advanced ATR system.' The program started in June 1995 and would conclude at the conclude of 1999. The curriculum stressed the need to tackle extended operational situations (EOCs), i.e. situations that vary from all those found in the training data available and focused heavily upon model-based (CAD and Bayesian) technologies. The MSTAR software performed systematic assessments of the efficiency of the network every fall (1996, 1997, and 1998). The evaluation of ATR is an essential foundation for technical and algorithmic decision-making. Analytical judgments may include. The selection among two various options to some subsystem or the recognition of weak links inside the system. Programming decisions may entail competitive down-selects or innovations transformations to users. Assessment of any kind. The "trained" system has its challenges, but the evaluation of ATRs seems to be particularly problematic due to limitations. Accessible data are relative to the magnitude of the issue. The dataset has 8 targets with multiple angles and each angle contain around 49 images.
+![image](https://github.com/user-attachments/assets/75d17547-7383-49fa-b941-42f9284bfc49)
+
 
 image
 
